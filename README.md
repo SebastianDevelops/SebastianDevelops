@@ -1,4 +1,19 @@
-- 👋<h> Hi, I'm Sebastian, </h>
-Checkout My <a href="https://gist.github.com/SebastianDevelops">gists here</a> with more projects from my <a href="https://codepen.io/SebastianDevelops">codepen</a>
+- 👋<h> Hi, <b>I'm Sebastian</b>, </h>
+I'm a web developer with both frontend and backend skills
+My skills include:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>JQuery</li>
+<li>Javascript</li>
+<li>Reactjs</li>
+<li>Python</li>
+<li>Django</li>
+</ul>
+ I'm passionate about the technology, I have been since I 
+was a young boy. My passion started with games and computers, 
+then with it introduction of smart phones, my passion grew more. 
 
-<h5><h5/>
+Providing a way to improve people's lives whilst doing what I love
+is an amazing win for me.
