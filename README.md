@@ -7,9 +7,11 @@ My skills include:
 <li>Bootstrap</li>
 <li>JQuery</li>
 <li>Javascript</li>
-<li>Reactjs</li>
+<li>MVC .Net</li>
+ <li>C#</li>
 <li>Python</li>
-<li>Django</li>
+<li>Entity franework</li>
+ <li>SQL</li>
 </ul>
  I'm passionate about the technology, I have been since I 
 was a young boy. My passion started with games and computers, 
