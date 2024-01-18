@@ -15,7 +15,7 @@
 
 <ul>
   <li>
-    <p>🔭 I’m currently working on <a href="https://SpeedyWheelz.co.za/"><strong>Delivery Application</strong></a></p>
+    <p>🔭 I’m currently working on <a href="https://github.com/SebastianDevelops/computerScience"><strong>Upskilling</strong></a></p>
   </li>
   <li>
     <p>👯 I’m looking to collaborate on <strong>backend of any web app</strong></p>
