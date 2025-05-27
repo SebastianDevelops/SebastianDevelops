@@ -2,7 +2,7 @@
       
 <p align="center">
   <a href="https://github.com/SebastianDevelops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=100&amp;pause=800&amp;color=F70000&amp;center=true&amp;width=435&amp;lines=Sebastian+Van Rooyen" alt="Hadj Hadji"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=100&amp;pause=800&amp;color=F70000&amp;center=true&amp;width=435&amp;lines=Sebastian+Van Rooyen" alt=""></a>
 </p>
 
 <p align="center">
